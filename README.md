@@ -45,7 +45,8 @@ Harassment includes but is not limited to offensive and hurtful verbal or writte
   - Photography or recording
   - Sustained disruption of talks or other events
   - Inappropriate physical contact
-  - Unwelcome sexual attention.
+  - Unwelcome sexual attention
+
 If you are making anybody uncomfortable with your actions after them denying consent, the same will be counted as harassment.
 Members asked to stop any harassing behaviour are expected to comply immediately. Failure in doing so will result in immediate dismissal from Hack Club SRM and the Core Team will not refrain from notifying authorities and officials of the University.
 Use of harmful language is absolutely prohibited in the Community.
